@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajmal-shaikh&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ajmal2727&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ## 🌟 About Me
@@ -50,19 +50,19 @@ const ajmalShaikh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmal-shaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-shaikh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajmal2727&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal2727&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmal-shaikh&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmal2727&theme=tokyonight" alt="streak"/>
 </div>
 
 ## 🏆 Featured Projects
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ajmal-shaikh&repo=your-repo-name&theme=tokyonight)](https://github.com/ajmal-shaikh/your-repo-name)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ajmal-shaikh&repo=your-repo-name&theme=tokyonight)](https://github.com/ajmal-shaikh/SES24)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ajmal-shaikh&repo=another-repo&theme=tokyonight)](https://github.com/ajmal-shaikh/another-repo)
 
 </div>
@@ -90,10 +90,10 @@ mindmap
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmal-shaikh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmal.shaikh2727@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmal-shk)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajmal_shaikh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://your-portfolio.com](https://web-ajmal-portfolio.netlify.app/))
 
 </div>
 
@@ -108,7 +108,7 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://github.com/ajmal-shaikh/ajmal-shaikh/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/ajmal-shaikh/Ajmal2727/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <h3 align="center">❤️ Thank you for visiting my profile! 🙏</h3>
