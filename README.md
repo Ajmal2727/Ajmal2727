@@ -1,114 +1,166 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Welcome to Ajmal Shaikh's Profile!
-</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajmal%20Shaikh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajmal2727&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54FF&center=true&vCenter=true&width=435&lines=Crafting+Digital+Experiences+%F0%9F%8C%9F;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Advocate+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
 </div>
 
-## 🌟 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ajmal2727&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Ajmal2727?style=for-the-badge&color=blueviolet" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Ajmal2727?style=for-the-badge&color=blueviolet" alt="Stars"/>
+</div>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <h2>🧙‍♂️ Wizardry & Craft</h2>
+      
 ```typescript
-const ajmalShaikh = {
-    location: "Your Location 🌍",
-    currentFocus: "Building amazing web experiences ⚡",
-    funFact: "I debug with coffee ☕",
-    dailyLife: ["💻 Coding", "📚 Learning", "🎮 Gaming", "🎧 Music"],
-    motto: "Transform coffee into code 🚀"
-};
+class AjmalShaikh extends Developer {
+    readonly name = "Ajmal Shaikh";
+    readonly title = "Full Stack Sorcerer";
+    
+    get location() {
+        return "Digital Realm 🌍";
+    }
+    
+    get skills() {
+        return {
+            languages: ["JavaScript", "Python", "TypeScript"],
+            frameworks: ["React", "Node.js", "Django"],
+            databases: ["MongoDB", "PostgreSQL"],
+            clouds: ["AWS", "Digital Ocean"],
+            tools: ["Docker", "Git", "VS Code"],
+            architecture: ["Microservices", "REST APIs"]
+        };
+    }
+    
+    get currentQuest() {
+        return "Transforming Ideas into Digital Reality";
+    }
+    
+    get dailyRoutine() {
+        return [
+            "☕ Coffee Powered Coding",
+            "🔮 Problem Solving",
+            "📚 Continuous Learning",
+            "🎮 Gaming Breaks",
+            "🎧 Coding with Music"
+        ];
+    }
+}
 ```
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal2727&layout=donut-vertical&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Arsenal & Enchantments
 
 <div align="center">
   
-### Frontend
+### 🎭 Frontend Sorcery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### 🏰 Backend Fortification
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Data Vaults
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Platform
+### ⚔️ Battle-Tested Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 Magical Stats & Achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajmal2727&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal2727&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajmal2727&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmal2727&theme=midnight-purple&hide_border=true" alt="Streak Stats"/>
 </div>
+
+## 🏆 Legendary Projects
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmal2727&theme=tokyonight" alt="streak"/>
+  <a href="https://github.com/Ajmal2727/SES24">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajmal2727&repo=SES24&theme=midnight-purple&hide_border=true"/>
+  </a>
+  <a href="https://web-ajmal-portfolio.netlify.app/">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajmal2727&repo=Portfolio&theme=midnight-purple&hide_border=true"/>
+  </a>
 </div>
 
-## 🏆 Featured Projects
+## 🎯 Quest Log (2024)
 
 <div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ajmal-shaikh&repo=your-repo-name&theme=tokyonight)](https://github.com/ajmal-shaikh/SES24)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ajmal-shaikh&repo=another-repo&theme=tokyonight)](https://github.com/ajmal-shaikh/another-repo)
-
-</div>
-
-## 🎯 Current Goals
-
+  
 ```mermaid
-mindmap
-  root((2024 Goals))
-    Cloud Mastery
-      AWS Solutions Architect
-      Cloud Native Apps
-    AI/ML
-      Machine Learning
-      Neural Networks
-    Open Source
-      Contribute More
-      Create Impact
-    Full Stack
-      System Design
-      Scalable Apps
+graph TD
+    A[2024 Epic Quests] --> B[Cloud Mastery]
+    A --> C[AI/ML Journey]
+    A --> D[Open Source Legacy]
+    A --> E[System Architecture]
+    
+    B --> B1[AWS Solutions Architect]
+    B --> B2[Kubernetes Explorer]
+    
+    C --> C1[TensorFlow Mastery]
+    C --> C2[Neural Network Craft]
+    
+    D --> D1[Major Contributions]
+    D --> D2[Project Leadership]
+    
+    E --> E1[Microservices Design]
+    E --> E2[Scalability Patterns]
 ```
+</div>
 
-## 🤝 Connect With Me
+## 🤝 Guild Connections
 
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmal.shaikh2727@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmal-shk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajmal_shaikh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://your-portfolio.com](https://web-ajmal-portfolio.netlify.app/))
-
+  <a href="mailto:ajmal.shaikh2727@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ajmal-shk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/ajmal_shaikh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://web-ajmal-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
-
-### 💭 Quote of the Day
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+  <h3>🌟 Daily Inspiration</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
-
----
 
 <div align="center">
-  <img src="https://github.com/ajmal-shaikh/Ajmal2727/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <h3>🐍 Contribution Garden</h3>
+  <img src="https://github.com/Ajmal2727/Ajmal2727/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-<h3 align="center">❤️ Thank you for visiting my profile! 🙏</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
